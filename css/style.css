@@ -1,0 +1,33 @@
+.nav-link {
+    font-weight: 500;
+    text-transform: uppercase;
+    color: red;
+}
+.logo {
+    width: 100px;
+    height: auto;
+}
+
+.carousel-item {
+    /* height: 30rem; */
+    object-fit: cover;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+.features img{
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    overflow: hidden;
+}
+
+a {
+    text-decoration: none;
+}
+.img-fluid {
+    width: 100%;
+}
